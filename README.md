@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Sherif ElTabarany</h1>
 <h3 align="center">An Embedded Systems engineer from Egypt</h3>
 
-- 🔭 I’m currently working on [CampusX](You will gave tge link when it exists 🤌)
+- 🔭 I’m currently working on [CampusX](You will have the link when it exists 🤌)
 
 - 🌱 I’m currently learning **Everything, everywhere… all at once**
 
